@@ -4,5 +4,5 @@ Java program simulating the physics of HAWT wind turbines using Blade Element Mo
 ## Libraries Used
 * JMathPlot by Yann Richet
 
-# Contributors
+## Contributors
 Chaitanya Varier and Mitchell Keeley
