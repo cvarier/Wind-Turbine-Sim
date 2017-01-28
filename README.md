@@ -3,7 +3,7 @@ Java program simulating the physics of HAWT wind turbines using Blade Element Mo
 
 ## Research Paper
 
-A research paper discussing the mathematics/physics behind the project can be found in the ``report`
+An in-depth discussion of the mathematics/physics behind the project can be found in the `report` directory.
 
 ## Libraries Used
 * JMathPlot by Yann Richet
